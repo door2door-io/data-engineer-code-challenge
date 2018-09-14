@@ -11,7 +11,7 @@ Multiple times per week we receive data from various providers (e.g. cell phone 
   * Get weekly averages values of the data by bounding box and region
   * Delete the data by region
   * Be informed about the status of the data ingestion without using a polling solution
-* The solution should be scalable to 10 million entries. It is encouraged to simplify the data by a data model. Bonus points if you provide the solution is scalable. 
+* The solution should be scalable to 10 million entries. It is encouraged to simplify the data by a data model. Bonus points if you proof the solution is scalable. 
 * The solution should be written in Python, Java or JavaScript using an SQL database
 * Bonus points if you containerize your solution and if you sketch how you would set up the application on AWS
 
